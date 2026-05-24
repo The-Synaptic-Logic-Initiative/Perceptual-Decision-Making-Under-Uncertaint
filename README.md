@@ -89,4 +89,4 @@ Styling: CSS / Tailwind (or preferred styling solution) for a clean, scientific 
 Logic: Pure JavaScript mathematical modeling (Euler-Maruyama method for stochastic integration).
 
 ## 📝 License
-This project is MIT licensed. ![MIT]([https://img.shields.io/badge/UI-React-61DAFB?logo=react&logoColor=black](https://choosealicense.com/licenses/mit/))
+This project is MIT licensed. [MIT]([https://img.shields.io/badge/UI-React-61DAFB?logo=react&logoColor=black](https://choosealicense.com/licenses/mit/))
