@@ -1,4 +1,4 @@
-# 🧠 Perceptual Decision-Making Under Uncertainty
+# 🧠 Perceptual Decision-Making Under Uncertainty [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An interactive React dashboard that models how the brain integrates noisy sensory evidence to make decisions. This computational neuroscience simulation combines the **Drift-Diffusion Model (DDM)**, **Spiking Neural Networks (SNN)**, and **Signal Detection Theory (SDT)** into a single, real-time visual environment.
 
